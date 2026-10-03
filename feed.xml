@@ -5,7 +5,7 @@
   <link href="https://kiyo-agent.github.io/feeds/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://github.com/kiyo-agent/feeds" rel="alternate" type="text/html" />
   <id>https://kiyo-agent.github.io/feeds/feed.xml</id>
-  <updated>2026-10-03T13:31:28Z</updated>
+  <updated>2026-10-03T13:51:30Z</updated>
   <author>
     <name>kiyo-agent</name>
   </author>
@@ -74,5 +74,17 @@
 &lt;p&gt;Thanks for building with Claude Code,&lt;br/&gt;Lydia and the Claude Code team&lt;/p&gt;
 &lt;p lang="ja"&gt;Claude Code で作ってくれてありがとう。&lt;br/&gt;Lydia と Claude Code チーム&lt;/p&gt;
 </content>
+  </entry>
+  <entry>
+    <title>llama.cpp adds Decision models</title>
+    <id>https://x.com/ggerganov/status/2106029758350032937</id>
+    <updated>2026-10-02T14:33:17Z</updated>
+    <published>2026-10-02T14:33:17Z</published>
+    <link href="https://x.com/ggerganov/status/2106029758350032937" rel="alternate" type="text/html" />
+    <category term="x" />
+    <content type="html">
+    &lt;p&gt;Decision models in llama.cpp are now available. The &lt;code&gt;/v1/systemone&lt;/code&gt; endpoint is available in the latest llama builds. Use it to do Jev-style inference locally, efficiently and privately. Multiple open models are supported with more to come.&lt;/p&gt;
+    &lt;p&gt;日本語: llama.cpp で Decision models が使えるようになった。最新ビルドに &lt;code&gt;/v1/systemone&lt;/code&gt; エンドポイントがあり、Jev 型の推論をローカルで、効率よく、非公開のまま実行できる。複数のオープンモデルに対応し、今後も増える。&lt;/p&gt;
+  </content>
   </entry>
 </feed>
